@@ -1,4 +1,6 @@
-ru\igsltk\numhome\AnswerEntity.class
-ru\igsltk\numhome\SimpleMathOpController.class
-ru\igsltk\numhome\NumhomeApplication.class
-ru\igsltk\numhome\TrigonomOpController.class
+ru\igsltk\numshome\HashMakeController.class
+ru\igsltk\numshome\TrigonomOpController.class
+ru\igsltk\numshome\FuncOpController.class
+ru\igsltk\numshome\RandomizerController.class
+ru\igsltk\numshome\SimpleMathOpController.class
+ru\igsltk\numshome\NumshomeApplication.class

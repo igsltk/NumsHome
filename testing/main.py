@@ -1,6 +1,7 @@
 import requests
 import json
 
+
 #====================SUM====================
 url = "http://localhost:8080/api/sum?a=20&b=20"
 response = requests.get(url)
@@ -52,3 +53,40 @@ response = requests.get(url)
 data = response.json()
 print(json.dumps(data, indent=4))
 #====================CTAN===================
+
+
+
+#====================HASH===================
+url = "http://localhost:8080/api/hash?hashType=SHA-224&textToHash=qwe"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+#====================HASH===================
+
+
+
+#====================DISC===================
+url = "http://localhost:8080/api/discriminant?b=3&a=2&c=1"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+#====================DISC===================
+
+
+
+#====================RAND===================
+url = "http://localhost:8080/api/rand"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+
+url = "http://localhost:8080/api/rand/fromto?min=10&max=20"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+
+url = "http://localhost:8080/api/rand/fixed?numOfSimbols=6"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+#====================RAND===================
