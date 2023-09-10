@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.igsltk.numshome.HashMakeControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-10T13:35:04" hostname="DESKTOP-4HQ69S5" time="0.005">
+  <properties/>
+  <testcase name="testHashEndpoint()" classname="ru.igsltk.numshome.HashMakeControllerTest" time="0.005"/>
+  <system-out><![CDATA[2023-09-10T17:35:04.754+04:00  INFO 55900 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.igsltk.numshome.HashMakeControllerTest]: HashMakeControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-09-10T17:35:04.758+04:00  INFO 55900 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.igsltk.numshome.NumshomeApplication for test class ru.igsltk.numshome.HashMakeControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-09-10T17:35:04.777+04:00  INFO 55900 --- [    Test worker] r.i.numshome.HashMakeControllerTest      : Starting HashMakeControllerTest using Java 19.0.1 with PID 55900 (started by admin in E:\Files\archive\work\Projects\JAVA PROJECTS\NumsHome\gradle)
+2023-09-10T17:35:04.778+04:00  INFO 55900 --- [    Test worker] r.i.numshome.HashMakeControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2023-09-10T17:35:04.885+04:00  INFO 55900 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-09-10T17:35:04.885+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-09-10T17:35:04.886+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-09-10T17:35:04.889+04:00  INFO 55900 --- [    Test worker] r.i.numshome.HashMakeControllerTest      : Started HashMakeControllerTest in 0.127 seconds (process running for 2.993)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

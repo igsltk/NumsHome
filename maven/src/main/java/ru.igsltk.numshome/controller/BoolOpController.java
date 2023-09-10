@@ -20,8 +20,6 @@ public class BoolOpController {
 				result = true;
 			}
 			data.put("bool", Boolean.toString(result));
-			data.put("a", Double.toString(a));
-			data.put("b", Double.toString(b));
 			return ResponseEntity.ok().body(data);
 		} catch(Exception e) {
 			return ResponseEntity.badRequest().body("Error!");

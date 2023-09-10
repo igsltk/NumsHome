@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.igsltk.numshome.SimpleMathOpControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-09-10T13:35:05" hostname="DESKTOP-4HQ69S5" time="0.018">
+  <properties/>
+  <testcase name="testModEndpoint()" classname="ru.igsltk.numshome.SimpleMathOpControllerTest" time="0.005"/>
+  <testcase name="testSubEndpoint()" classname="ru.igsltk.numshome.SimpleMathOpControllerTest" time="0.003"/>
+  <testcase name="testSumEndpoint()" classname="ru.igsltk.numshome.SimpleMathOpControllerTest" time="0.005"/>
+  <testcase name="testDivEndpoint()" classname="ru.igsltk.numshome.SimpleMathOpControllerTest" time="0.003"/>
+  <system-out><![CDATA[2023-09-10T17:35:05.306+04:00  INFO 55900 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.igsltk.numshome.SimpleMathOpControllerTest]: SimpleMathOpControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-09-10T17:35:05.309+04:00  INFO 55900 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.igsltk.numshome.NumshomeApplication for test class ru.igsltk.numshome.SimpleMathOpControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-09-10T17:35:05.324+04:00  INFO 55900 --- [    Test worker] r.i.numshome.SimpleMathOpControllerTest  : Starting SimpleMathOpControllerTest using Java 19.0.1 with PID 55900 (started by admin in E:\Files\archive\work\Projects\JAVA PROJECTS\NumsHome\gradle)
+2023-09-10T17:35:05.324+04:00  INFO 55900 --- [    Test worker] r.i.numshome.SimpleMathOpControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-09-10T17:35:05.418+04:00  INFO 55900 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-09-10T17:35:05.418+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-09-10T17:35:05.418+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-09-10T17:35:05.420+04:00  INFO 55900 --- [    Test worker] r.i.numshome.SimpleMathOpControllerTest  : Started SimpleMathOpControllerTest in 0.108 seconds (process running for 3.525)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,1 +1,7 @@
-ru\igsltk\numhome\NumhomeApplicationTests.class
+ru\igsltk\numshome\BoolOpControllerTest.class
+ru\igsltk\numshome\RandomizerControllerTest.class
+ru\igsltk\numshome\TrigonomOpControllerTest.class
+ru\igsltk\numshome\HashMakeControllerTest.class
+ru\igsltk\numshome\SimpleMathOpControllerTest.class
+ru\igsltk\numshome\FuncOpControllerTest.class
+ru\igsltk\numshome\NumshomeApplicationTest.class

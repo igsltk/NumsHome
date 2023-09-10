@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.igsltk.numshome.RandomizerControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-10T13:35:05" hostname="DESKTOP-4HQ69S5" time="0.006">
+  <properties/>
+  <testcase name="testRandFixedEndpoint()" classname="ru.igsltk.numshome.RandomizerControllerTest" time="0.002"/>
+  <testcase name="testRandFromToEndpoint()" classname="ru.igsltk.numshome.RandomizerControllerTest" time="0.001"/>
+  <testcase name="testRandEndpoint()" classname="ru.igsltk.numshome.RandomizerControllerTest" time="0.001"/>
+  <system-out><![CDATA[2023-09-10T17:35:05.177+04:00  INFO 55900 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.igsltk.numshome.RandomizerControllerTest]: RandomizerControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-09-10T17:35:05.181+04:00  INFO 55900 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.igsltk.numshome.NumshomeApplication for test class ru.igsltk.numshome.RandomizerControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-09-10T17:35:05.197+04:00  INFO 55900 --- [    Test worker] r.i.numshome.RandomizerControllerTest    : Starting RandomizerControllerTest using Java 19.0.1 with PID 55900 (started by admin in E:\Files\archive\work\Projects\JAVA PROJECTS\NumsHome\gradle)
+2023-09-10T17:35:05.197+04:00  INFO 55900 --- [    Test worker] r.i.numshome.RandomizerControllerTest    : No active profile set, falling back to 1 default profile: "default"
+2023-09-10T17:35:05.295+04:00  INFO 55900 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-09-10T17:35:05.296+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-09-10T17:35:05.296+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-09-10T17:35:05.298+04:00  INFO 55900 --- [    Test worker] r.i.numshome.RandomizerControllerTest    : Started RandomizerControllerTest in 0.113 seconds (process running for 3.402)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

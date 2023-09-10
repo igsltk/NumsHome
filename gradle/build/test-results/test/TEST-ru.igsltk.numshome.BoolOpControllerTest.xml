@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.igsltk.numshome.BoolOpControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-10T13:35:03" hostname="DESKTOP-4HQ69S5" time="0.713">
+  <properties/>
+  <testcase name="testIsEqualEndpoint()" classname="ru.igsltk.numshome.BoolOpControllerTest" time="0.713"/>
+  <system-out><![CDATA[17:35:02.717 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ru.igsltk.numshome.BoolOpControllerTest]: BoolOpControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:35:02.825 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ru.igsltk.numshome.NumshomeApplication for test class ru.igsltk.numshome.BoolOpControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.2)
+
+2023-09-10T17:35:03.148+04:00  INFO 55900 --- [    Test worker] r.igsltk.numshome.BoolOpControllerTest   : Starting BoolOpControllerTest using Java 19.0.1 with PID 55900 (started by admin in E:\Files\archive\work\Projects\JAVA PROJECTS\NumsHome\gradle)
+2023-09-10T17:35:03.150+04:00  INFO 55900 --- [    Test worker] r.igsltk.numshome.BoolOpControllerTest   : No active profile set, falling back to 1 default profile: "default"
+2023-09-10T17:35:03.836+04:00  INFO 55900 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-09-10T17:35:03.837+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-09-10T17:35:03.839+04:00  INFO 55900 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2023-09-10T17:35:03.860+04:00  INFO 55900 --- [    Test worker] r.igsltk.numshome.BoolOpControllerTest   : Started BoolOpControllerTest in 0.973 seconds (process running for 1.965)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
