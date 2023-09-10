@@ -17,8 +17,10 @@ All requests have params.
 * Hash Creation
 	* /api/hash?hashType={hashType}&textToHash={textToHash}
 * Function Operations
-	* /api/discriminant?b={b}&a={a}&c={c}
+	* /api/discriminant?b={num1}&a={num2}&c={num3}
 * Randomizer
 	* /api/rand
 	* /api/rand/fromto?min={min}&max={max}
 	* /api/rand/fixed?numOfSimbols={numOfSimbols}
+* Bool Operations
+	* /api/isequal?a={num1}&b={num2}

@@ -2,5 +2,6 @@ ru\igsltk\numshome\HashMakeController.class
 ru\igsltk\numshome\TrigonomOpController.class
 ru\igsltk\numshome\FuncOpController.class
 ru\igsltk\numshome\RandomizerController.class
+ru\igsltk\numshome\BoolOpController.class
 ru\igsltk\numshome\SimpleMathOpController.class
 ru\igsltk\numshome\NumshomeApplication.class

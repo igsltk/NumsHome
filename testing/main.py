@@ -90,3 +90,12 @@ response = requests.get(url)
 data = response.json()
 print(json.dumps(data, indent=4))
 #====================RAND===================
+
+
+
+#====================BOOL===================
+url = "http://localhost:8080/api/isequal?a=5&b=5"
+response = requests.get(url)
+data = response.json()
+print(json.dumps(data, indent=4))
+#====================BOOL===================
